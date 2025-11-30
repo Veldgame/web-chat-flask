@@ -1,0 +1,10 @@
+Добавить файлы в папку /templates/
+
+index.html
+login.html
+register.html
+chat.html
+
+Добавить файлы в папку /static/
+style.css
+script.js
