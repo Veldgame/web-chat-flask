@@ -8,3 +8,5 @@ chat.html
 Добавить файлы в папку /static/
 style.css
 script.js
+
+Запуск: win+r -> cmd -> console > cd путь_к_файлу_app.py -> python app.py (если запускать на прямую ошибка db библиотеки)
